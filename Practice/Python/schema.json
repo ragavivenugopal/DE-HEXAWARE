@@ -1,0 +1,12 @@
+{
+  "title": "User Data Schema",
+  "type": "object",
+  "properties": {
+    "id": { "type": "integer" },
+    "name": { "type": "string" },
+    "status": { "type": "string" },
+    "amount": { "type": "number" },
+    "date": { "type": "string", "format": "date" }
+  },
+  "required": ["id", "name", "status", "amount", "date"]
+}

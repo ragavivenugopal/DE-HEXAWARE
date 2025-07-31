@@ -1,0 +1,11 @@
+id,name,status,amount,date
+1,Alice,Approved,1200,2023-01-10
+2,Bob,Rejected,850,2023-02-15
+3,Charlie,Approved,960,2023-03-12
+4,Diana,Pending,740,2023-04-20
+5,Eli,Approved,1320,2023-01-25
+6,Fay,Rejected,680,2023-02-10
+7,George,Approved,1500,2023-03-30
+8,Hannah,Pending,900,2023-04-18
+9,Ian,Rejected,600,2023-05-22
+10,Jane,Approved,1100,2023-05-05

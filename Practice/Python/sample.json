@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tom",
+    "scores": { "math": 90, "eng": 80 }
+  },
+  {
+    "name": "Ana",
+    "scores": { "math": 88, "eng": 85 }
+  },
+  {
+    "name": "Zara",
+    "scores": { "math": 95, "eng": 78 }
+  }
+]
